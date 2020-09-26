@@ -1,0 +1,204 @@
+
+.home_background{
+    background-image: url(https://img.elo7.com.br/product/original/1BC567C/painel-festa-1-50x1m-estadio-futebol-decoracao-de-festa-infantil.jpg);
+    background-size: 100% auto;
+    image-rendering: -webkit-optimize-contrast;
+    width: 100vw;
+    height: 100vw;
+    
+
+}
+
+.menu{
+    display: flex;
+    background-color: #bbbbbb;
+
+}
+
+.caixa{
+    margin-left: 15vw;
+}
+
+.logo{
+    display: inline-block;
+    width: 20vw;
+    margin-right: 20vw;
+    vertical-align: middle;
+       
+}
+
+#logo{
+    margin-top: 2vw;
+    width: 20vw;
+   
+}
+
+nav{
+    width: 40vw;
+    display: inline;
+}
+
+nav ul{
+    width: 40vw;
+    display: inline;
+}
+
+nav li{
+    width: 40vw;
+    display: inline;
+}
+
+nav a{
+    
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 2.5vw;
+    text-decoration: none;
+    margin-right: 3vw;
+    
+}
+
+#titulo_post{
+    color: #000000;
+    font-weight: bold;
+    font-style: italic;
+    font-style: oblique;
+    font-size: 3vw;
+    text-align: center;
+    border: 0.5vw solid black;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+.posts{
+    background-color: #bbbbbb;
+    font-weight: bold;
+    color: blue;
+    font-size: 2.5vw;
+    border: 0.8vw double black;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+
+}
+
+.data_post{
+    font-size: 2vw;
+}
+
+.sobre_background{
+    background-image: url(https://conteudo.imguol.com.br/c/esporte/de/2018/10/10/torcida-cruzeirense-faz-festa-pouco-antes-do-inicio-de-jogo-contra-o-corinthians-no-mineirao-1539219712676_1920x1080.jpg);
+    background-size: 100% auto;
+    image-rendering: -webkit-optimize-contrast;
+    width: 100vw;
+    height: 100vw;
+}
+
+
+.titulo_sobre{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    border: 0.5vw solid black;
+    padding:1vw;
+    margin-top: 1vw;;
+    margin-bottom: 1vw;
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+
+.texto_sobre{
+    background-color: seashell;
+    color: rgb(7, 33, 112);
+    font-size: 2.5vw;
+    text-align:center;
+    font-weight: bold;
+    border: 0.5vw solid black;
+    padding:1vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    
+}
+
+.titulo_sobre_2{
+    color:red;
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    border: 0.5vw solid green;
+    padding:1vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+
+
+.lista_sobre{
+    background-color: snow;
+    font-size: 2.5vw;
+    color: red;
+    font-style: italic;
+    display: inline-block;
+    vertical-align: top;
+    width: 40vw;
+    margin-right: 10vw;
+    border: 0.5vw solid green;
+    padding:1vw;
+
+}
+
+.imagem_curiosidade{
+    width: 40vw;
+    height: auto;
+}
+
+.contato_background{
+    background-image: url(https://www.thiagoprogramador.com/wp-content/uploads/2017/11/email.png);
+    background-size: 100% auto;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.email{
+    color:rgb(151, 42, 42);
+    font-size: 5vw;
+    text-align: center;
+}
+
+.post_background{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiLR6rVg5OD1nyla_Hlfi0JEjErwV0_10uYw&usqp=CAU);
+    background-size: 100% auto;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.main_posts{
+    color:white;
+    background-color: darkcyan;
+    margin-top: 5vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-bottom: 5vw;
+    border: 1vw double orange;
+}
+
+.titulo_post{
+    font-size: 4vw;
+    font-weight: bold;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    text-decoration: underline;
+    text-align: center;
+    
+  
+}
+
+.conteudo_post{
+    font-size: 3vw;
+    text-align: justify;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    
+}

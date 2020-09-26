@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stykesheet" href="{{ 'site.baseurl' | relative_url }} ">
+    </head>
+
+    <body class="home_background">
+      <header class="menu">
+        <div class="caixa">
+            
+            <h1 class="logo">
+                <img id="logo" src="{{ '/assets/images/logo.png' | relative_url }}">
+            </h1>
+
+            <nav>
+                <ul>
+                    <li><a href="{{ '/sobre.html' | relative_url }}">Sobre</a></li>
+                    <li><a href="{{ '/contato.html' | relative_url }}">Contato</a></li>
+                </ul>
+            </nav>  
+        </div>
+
+      </header>
+
+      <main>
+        <h2 id="titulo_post">Posts</h2>
+
+        <ul class="posts">
+          {% for post in site.posts %}        
+              <li ><a href ="{{ post.url | relative_url}} ">{{ post.title }} </a></li >
+              <br>
+          {% endfor %}
+        </ul>
+      </body>     
+      </main>
+      
+    </body>
+
+
+</html>
+
+
+
+
+
