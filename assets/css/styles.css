@@ -182,6 +182,7 @@ nav a{
     margin-right: 8vw;
     margin-bottom: 5vw;
     border: 1vw double orange;
+
 }
 
 .titulo_post{
@@ -219,4 +220,19 @@ nav a{
     margin-top: 2vw;
     margin-bottom: 2vw;
     width: 50%;   
+}
+
+#shane_link{
+    font-size: 3.1vw;
+    font-weight: bold;
+}
+
+#shane_gol{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    width: 50vw;
+    height: 30vw;
 }
