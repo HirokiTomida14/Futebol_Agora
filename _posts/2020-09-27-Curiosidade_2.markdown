@@ -18,7 +18,7 @@ categories: jekyll update
     <br>
     <p>A marca de gol mais rápido do Campeonato Inglês pertencia a Ledley King. No dia 9 de dezembro de 2000, o zagueiro e eterno capitão do Tottenham, marcou o gol com apenas 10 segundos na partida contra o Bradford. O confronto terminou empatado em 3 a 3, mas a marca de King permaneceu intacta até ser superado por Long.</p>
     <br>
-    <h2 id="shane_link">Confira o gol históico de Shane Long abaixo:</h2>
+    <h2 id="shane_link">Confira o gol histórico de Shane Long abaixo:</h2>
     <iframe id="shane_gol" src="https://youtube.com/embed/wQVQz7rOuwo" allowfullscreen> </iframe>   
 
   </body>
