@@ -211,3 +211,12 @@ nav a{
     margin-bottom: 2vw;
     width: 50%;
 }
+
+#sportxcorinthians{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    width: 50%;   
+}

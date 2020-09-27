@@ -2,7 +2,7 @@
 layout: post
 title:  "Curisiodade N°1: Expulsão mais rápida da história"
 date:   2020-09-26 ‏‎22:26:00 -0300
-categories: Curiosidades
+categories: jekyll update
 ---
 
 <html lang="pt-br">

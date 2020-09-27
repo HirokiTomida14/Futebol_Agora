@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Resultado e Análise: Corinthians X Sport"
+date:   2020-09-27 ‏‎00:11:19 -0300
+categories: jekyll update
+---
+
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stykesheet" href="{{ '/' | relative_url }}">
+  </head>
+  
+  <body>
+    <img id="sportxcorinthians" src="{{ '/assets/images/sportxcorinthians.jpg' | relative_url }}">
+    <p>Na última quarta-feira (23/09/2020) Corinthians e Sport se enfrentaram na Ilha do Retiro pela 12ª rodada do brasileirão. Em um jogo com poucas chances criadas, o Sport conseguiu a vitória por 1 a 0 com um gol de penâlti convertido por Iago Maidana e garantiu os 3 pontos para o Leão. A partida também contou com a estréia de Thiago Neves pelo Sport.</p>
+    <br>
+    <p>A partida envolveu novamente uma polêmica com o VAR. Aos 34 minutos do 1º tempo o árbitro da partida Wilton Pereira Sampaio marcou um penâlti para o Sport em chute de fora da área de Jonatan Gomez que bate no braço de Everaldo, que estava com o braço acima da altura do ombro. Sem o auxílio do VAR o juiz prontamente marcou o penâlti. A polêmica aconteceu no início da segunda etapa, quando em escanteio batido por Otero, Luan cabeceia e a bola desvia no braço de Sander, em lance muito similar ao ocorrido no penâlti marcado para o Sport. Após revisão do VAR, nada foi marcado, o que revoltou os jogadores alvinegros.</p>
+    <br>
+    <p>Com o resultado o Sport foi a 17 pontos e chegou ao sétimo lugar do Campeonato Brasileiro. Já o Corinthians segue na parte de baixo da tabela, com 12 pontos, o timão ocupa a 14ª colocação.</p>
+    <br>
+  </body>
+  
+
+</html>
